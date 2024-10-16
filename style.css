@@ -54,6 +54,10 @@ h2{
    text-transform: uppercase;
    color: black;
 }
+p{
+   font-size: 15px;
+   color: black;
+}
 nav ul li a, .dropbtn {
     display: inline-block;
     color: white;
